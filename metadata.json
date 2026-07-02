@@ -1,0 +1,6 @@
+{
+  "name": "Tournament Dashboard",
+  "description": "A modern, minimalist tournament status dashboard with real-time score and match management capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
